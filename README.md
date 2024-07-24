@@ -16,7 +16,7 @@ The dataset includes the following features:
 ## Usage
 ### Jupyter Notebooks
 
-You can explore the analysis in the Jupyter notebooks located in the `notebooks/` directory.
+You can explore the analysis in file airline_ticket_booking_analysis.ipynb.
 ## Project Overview
 
 This project focuses on analyzing airline ticket booking data to extract valuable insights. The analysis is structured into the following key components:
